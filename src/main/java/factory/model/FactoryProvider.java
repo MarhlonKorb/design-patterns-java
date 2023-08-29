@@ -1,5 +1,8 @@
 package factory.model;
 
+/**
+ * Classe responsável por instanciar factory de acordo com entidade passada por parâmetro
+ */
 public class FactoryProvider {
 
     public static <T> IAbstractFactory getFactory(T entitidaFactory){
