@@ -33,17 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/marhl/Documents/GitHub/design-patterns-java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/marhl/Documents/GitHub/design-patterns-java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marhl\Documents\GitHub\design-patterns-java\src\main\java\factory\img-diagrama" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="builder.models" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="design-patterns-java" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="factory.main" />
+      <option name="MAIN_CLASS_NAME" value="builder.main" />
       <module name="design-patterns-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,6 +92,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/factory/main.java</url>
           <line>10</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/builder/main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/builder/models/builder3/Builder3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
